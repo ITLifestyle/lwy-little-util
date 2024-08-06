@@ -10,6 +10,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>little-util-compare-field</module>
+        <module>little-util-validation</module>
     </modules>
 
     <properties>
