@@ -11,6 +11,7 @@
     <modules>
         <module>little-util-compare-field</module>
         <module>little-util-validation</module>
+        <module>little-util-code-generator</module>
     </modules>
 
     <properties>
